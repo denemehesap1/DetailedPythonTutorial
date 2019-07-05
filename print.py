@@ -1,1 +1,1 @@
-print("merhaba dünya")
+print("Python en keyifli programlama dilidir :) ")
