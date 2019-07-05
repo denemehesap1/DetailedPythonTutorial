@@ -1,0 +1,2 @@
+meyveler = ["elma", "armut","kiraz"]
+
